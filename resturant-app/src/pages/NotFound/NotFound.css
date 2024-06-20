@@ -1,0 +1,140 @@
+/* NotFound.css */
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: "Arial", sans-serif;
+}
+
+.not-found-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+  overflow: hidden;
+  position: relative;
+}
+
+.not-found-content {
+  max-width: 600px;
+  z-index: 10;
+}
+
+.not-found-content h1 {
+  font-size: 10rem;
+  margin: 0;
+  color: var(--danger);
+  animation: float 3s ease-in-out infinite;
+}
+
+.not-found-content h2 {
+  font-size: 2rem;
+  margin: 20px 0;
+}
+
+.not-found-content p {
+  font-size: 1.2rem;
+  margin: 20px 0;
+}
+
+.btn {
+  background-color: var(--danger);
+  border: none;
+  padding: 15px 30px;
+  font-size: 1rem;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: var(--dark-danger);
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+}
+
+/* Background bubbles animation */
+@keyframes bubble {
+  0% {
+    transform: translateY(100vh) scale(0);
+  }
+  100% {
+    transform: translateY(-100vh) scale(1);
+  }
+}
+
+.bubble {
+  position: absolute;
+  bottom: -50px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 50%;
+  animation: bubble 20s linear infinite;
+}
+
+.bubble:nth-child(1) {
+  width: 80px;
+  height: 80px;
+  left: 10%;
+  animation-duration: 15s;
+  animation-delay: 2s;
+}
+
+.bubble:nth-child(2) {
+  width: 120px;
+  height: 120px;
+  left: 20%;
+  animation-duration: 18s;
+  animation-delay: 4s;
+}
+
+.bubble:nth-child(3) {
+  width: 60px;
+  height: 60px;
+  left: 25%;
+  animation-duration: 12s;
+  animation-delay: 0s;
+}
+
+.bubble:nth-child(4) {
+  width: 100px;
+  height: 100px;
+  left: 40%;
+  animation-duration: 20s;
+  animation-delay: 5s;
+}
+
+.bubble:nth-child(5) {
+  width: 90px;
+  height: 90px;
+  left: 55%;
+  animation-duration: 16s;
+  animation-delay: 3s;
+}
+
+.bubble:nth-child(6) {
+  width: 110px;
+  height: 110px;
+  left: 70%;
+  animation-duration: 22s;
+  animation-delay: 1s;
+}
+
+.bubble:nth-child(7) {
+  width: 70px;
+  height: 70px;
+  left: 80%;
+  animation-duration: 18s;
+  animation-delay: 6s;
+}

@@ -1,0 +1,48 @@
+.product-details-section {
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .product-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    /* margin-bottom: 20px; */
+  }
+  
+  .product-description {
+    font-size: 1.1rem;
+    line-height: 2;
+    color: #555;
+  }
+  
+  .img-fluid {
+    max-height: 380px;
+    width: 550px;
+    object-fit: cover;
+  }
+  
+  .btn-outline-secondary {
+    border: 1px solid var(--bs-secondary);
+    color: var(--bs-secondary);
+    transition: background-color 0.2s, color 0.2s;
+  }
+  
+  .btn-outline-secondary:hover {
+    background-color: var(--bs-secondary);
+    color: white;
+  }
+  
+  .btn-danger {
+    background-color: var(--bs-danger);
+    border: none;
+    padding: 15px;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    transition: background-color 0.2s, transform 0.2s;
+  }
+  
+  .btn-danger:hover {
+    background-color: darkred;
+    transform: scale(1.05);
+  }
+  

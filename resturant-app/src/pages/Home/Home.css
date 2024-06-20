@@ -1,0 +1,73 @@
+
+/* Carousel */
+.carousel-img {
+  height: 650px;
+  filter: brightness(60%);
+}
+
+.carousel-caption.centered-caption {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.carousel-caption.centered-caption h3,
+.carousel-caption.centered-caption p {
+  margin: 0;
+  padding: 0;
+  line-height: 30px;
+}
+/* Services Section */
+.service-icon {
+  font-size: 80px;
+  color: var(--danger);
+  margin-bottom: 20px;
+}
+
+/* About Section */
+.about-section {
+  background-color: #f9f9f9;
+}
+.about-section img {
+    height: 350px;
+  }
+
+/* Menu Section */
+.menu-section {
+  background-color: #fff;
+}
+.menu-section img {
+  height: 250px;
+  width: 400px;
+}
+
+/* Testimonials Section */
+.testimonial {
+  font-style: italic;
+  color: #555;
+}
+
+/* Contact Section */
+.contact-section {
+  background-color: #f9f9f9;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.py-5 {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.mb-4 {
+  margin-bottom: 1.5rem;
+}
+
+.mb-5 {
+  margin-bottom: 3rem;
+}

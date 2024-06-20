@@ -1,0 +1,33 @@
+.wishlist-container {
+  background: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.wishlist-item {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+}
+
+.wishlist-item:last-child {
+  border-bottom: none;
+}
+
+.wishlist-img {
+  height: 70px;
+  width: 100px;
+}
+
+.wishlist-item .item-name {
+  margin-bottom: 5px;
+}
+.item-name:hover {
+  color:red;
+  text-underline-position: below;
+}
+
+.wishlist-item p {
+  margin-bottom: 0;
+}
