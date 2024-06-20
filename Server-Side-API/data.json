@@ -1,0 +1,193 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Margherita Pizza",
+      "category": "Pizza",
+      "quantity": "10",
+      "price": "45",
+      "image": "https://media.istockphoto.com/id/1377372234/photo/pizza-with-salami-bell-pepper-tomatoes-and-cheese-pickles-bacon-and-sausages-on-a-light.jpg?s=612x612&w=0&k=20&c=Cw2GlLY474sFLmBm4IFsSoSXV4wHZM-ub691aaDqLlw=",
+      "description": "Classic Margherita pizza with fresh tomatoes, mozzarella cheese, and basil."
+    },
+    {
+      "id": "3",
+      "name": "Spaghetti Carbonara ",
+      "category": "Pasta",
+      "quantity": 25,
+      "price": "99",
+      "image": "https://media.istockphoto.com/id/1144823591/photo/spaghetti-in-a-dish-on-a-white-background.jpg?b=1&s=612x612&w=0&k=20&c=yWXnUB0TbGVWD5NE-dbu33KzQ_ujPXWQtU7809AUwxE=",
+      "description": "Creamy spaghetti carbonara with pancetta, parmesan, and a hint of garlic."
+    },
+    {
+      "id": "5",
+      "name": "Grilled Salmon",
+      "category": "Main Course",
+      "quantity": 238,
+      "price": 42,
+      "image": "https://images.pexels.com/photos/725991/pexels-photo-725991.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Grilled salmon with lemon butter sauce, served with roasted vegetables."
+    },
+    {
+      "id": "6",
+      "name": "Beef Burger",
+      "category": "Burger",
+      "quantity": 90,
+      "price": 50,
+      "image": "https://images.pexels.com/photos/2089717/pexels-photo-2089717.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Juicy beef burger with lettuce, tomato, cheese, and a special sauce."
+    },
+    {
+      "id": "7",
+      "name": "Margarita Burger",
+      "category": "Burger",
+      "quantity": 633,
+      "price": 45,
+      "image": "https://images.pexels.com/photos/1251198/pexels-photo-1251198.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Refreshing margarita cocktail with tequila, lime juice, and a salted rim."
+    },
+    {
+      "id": "8",
+      "name": "Four Cheese Pizza",
+      "category": "Pizza",
+      "quantity": 120,
+      "price": 37,
+      "image": "https://media.istockphoto.com/id/1406514029/photo/cheese-pizza-on-board-on-dark-stone-table-top-view.jpg?b=1&s=612x612&w=0&k=20&c=FiPbcyqBp45L_bb2c134N7JDIIYvpYPkC-NHo7vOf7o=",
+      "description": "A delightful blend of mozzarella, cheddar, parmesan, and blue cheese, melted to perfection on a crispy pizza crust."
+    },
+    {
+      "id": "9",
+      "name": "Greek Salad",
+      "category": "Salad",
+      "quantity": 150,
+      "price": 18,
+      "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "A refreshing salad with cucumbers, tomatoes, feta cheese, olives, and a light olive oil dressing."
+    },
+    {
+      "id": "10",
+      "name": "Penne Arrabbiata",
+      "category": "Pasta",
+      "quantity": 60,
+      "price": 22,
+      "image": "https://media.istockphoto.com/id/467639228/photo/homemade-lemon-and-herb-whole-chicken.jpg?b=1&s=612x612&w=0&k=20&c=s0GSaAbvY7EPQE964T10xxx99-MUXQt2JN3Yias7rRE=",
+      "description": "Spicy penne pasta in a robust tomato sauce with garlic, chili peppers, and fresh parsley."
+    },
+    {
+      "id": "11",
+      "name": "Chocolate Lava Cake",
+      "category": "Dessert",
+      "quantity": 45,
+      "price": 30,
+      "image": "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Decadent chocolate cake with a molten chocolate center, served warm with a scoop of vanilla ice cream."
+    },
+    {
+      "id": "12",
+      "name": "Lemon Herb Chicken",
+      "category": "Main Course",
+      "quantity": 200,
+      "price": 80,
+      "image": "https://media.istockphoto.com/id/467639228/photo/homemade-lemon-and-herb-whole-chicken.jpg?b=1&s=612x612&w=0&k=20&c=s0GSaAbvY7EPQE964T10xxx99-MUXQt2JN3Yias7rRE=",
+      "description": "Juicy grilled chicken breast marinated in a zesty lemon herb sauce, served with steamed vegetables."
+    },
+    {
+      "id": "13",
+      "name": "Chicken Caesar Wrap",
+      "category": "Main Course",
+      "quantity": 75,
+      "price": 25,
+      "image": "https://images.pexels.com/photos/5639360/pexels-photo-5639360.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "A delicious wrap with grilled chicken, crisp romaine, Caesar dressing, and parmesan cheese."
+    },
+    {
+      "id": "14",
+      "name": "BBQ Chicken Pizza",
+      "category": "Pizza",
+      "quantity": 80,
+      "price": 40,
+      "image": "https://media.istockphoto.com/id/484811667/photo/homemade-barbecue-chicken-pizza.jpg?b=1&s=612x612&w=0&k=20&c=2M-2Quy8LWQVG4ysyXypD0MfdoaTXu8MFHOysFeZOQI=",
+      "description": "Tasty pizza topped with barbecue chicken, red onions, mozzarella, and cilantro."
+    },
+    {
+      "id": "15",
+      "name": "Caprese Salad",
+      "category": "Salad",
+      "quantity": 95,
+      "price": 16,
+      "image": "https://images.pexels.com/photos/15254104/pexels-photo-15254104/free-photo-of-mozzarella-basilico-tomatoes-and-oil-olives.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Simple and fresh salad with ripe tomatoes, mozzarella, fresh basil, and a drizzle of balsamic glaze."
+    },
+    {
+      "id": "16",
+      "name": "Fettuccine Alfredo",
+      "category": "Pasta",
+      "quantity": 50,
+      "price": 25,
+      "image": "https://images.pexels.com/photos/1435896/pexels-photo-1435896.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Creamy fettuccine pasta tossed in a rich Alfredo sauce with garlic, parmesan, and black pepper."
+    },
+    {
+      "id": "17",
+      "name": "Cheesecake",
+      "category": "Dessert",
+      "quantity": 60,
+      "price": 35,
+      "image": "https://images.pexels.com/photos/4040691/pexels-photo-4040691.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Rich and creamy cheesecake with a graham cracker crust, topped with fresh strawberries."
+    },
+    {
+      "id": "18",
+      "name": "Beef Stroganoff",
+      "category": "Main Course",
+      "quantity": 120,
+      "price": 32,
+      "image": "https://images.pexels.com/photos/533325/pexels-photo-533325.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Tender beef in a creamy mushroom sauce, served over egg noodles."
+    },
+    {
+      "id": "19",
+      "name": "Checken Pizza",
+      "category": "Pizza",
+      "quantity": 0,
+      "price": 35,
+      "image": "https://media.istockphoto.com/id/1340589333/photo/homemade-indian-chicken-tikka-masala-pizza.jpg?b=1&s=612x612&w=0&k=20&c=NLItlSJM2o5cjg9V_FJnGjt7vDFwr24G75F6CQsMwWg=",
+      "description": "Classic Margarita pizza with fresh tomatoes, mozzarella cheese, and basil."
+    },
+    {
+      "id": "21",
+      "name": "Bolognese Pasta",
+      "category": "Pasta",
+      "quantity": 40,
+      "price": 28,
+      "image": "https://images.pexels.com/photos/6287520/pexels-photo-6287520.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Pasta with a hearty Bolognese sauce made with ground beef, tomatoes, and a mix of aromatic vegetables."
+    },
+    {
+      "id": "22",
+      "name": "Brownie Sundae",
+      "category": "Dessert",
+      "quantity": 50,
+      "price": 38,
+      "image": "https://images.pexels.com/photos/6390684/pexels-photo-6390684.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Warm brownie topped with vanilla ice cream, chocolate sauce, and whipped cream."
+    },
+    {
+      "id": "c2dc",
+      "name": "Pepperoni Pizza",
+      "category": "Pizza",
+      "quantity": "120",
+      "price": "55",
+      "image": "https://images.pexels.com/photos/3682837/pexels-photo-3682837.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Classic pepperoni pizza with mozzarella cheese and a crispy crust."
+    },
+    {
+      "id": "835b",
+      "name": "Molten Chocolate edited",
+      "category": "Dessert",
+      "quantity": "40",
+      "price": "222",
+      "image": "https://media.istockphoto.com/id/541267186/photo/chocolate-fondant-with-strawberries-and-powdered-sugar.jpg?b=1&s=612x612&w=0&k=20&c=F_U4jDTKzFtzfpHvya1YfyH5AUKL0yJ5KgpVH8tVmRw=",
+      "description": "A rich chocolate cake with a gooey molten center, served with a scoop of vanilla ice cream."
+    }
+  ]
+}
